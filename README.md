@@ -1,2 +1,2 @@
-# cousera-web
-cousera-web develop repository
+# coursera-web
+coursera-web develop repository
